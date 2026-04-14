@@ -49,5 +49,3 @@ En dernière année d'école d'ingénieurs à l'ENSA Al-Hoceima spécialisée en
 - 💼 **LinkedIn:** [in/sara-el-ghazouani](https://www.linkedin.com/in/sara-el-ghazouani)
 
 <br />
-
-👉 *N'hésitez pas à explorer mes dépôts (repositories) ci-dessous pour voir mes projets en action !*
