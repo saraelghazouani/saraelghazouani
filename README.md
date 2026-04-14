@@ -4,8 +4,6 @@
 
 En dernière année d'école d'ingénieurs à l'ENSA Al-Hoceima spécialisée en data engineering, je suis passionnée par la **Data Science**, le **Machine Learning** et l'optimisation des processus métiers. Mon parcours m'a permis d'acquérir une expertise en analyse de données, modélisation statistique et visualisation. 
 
-🎯 **Je recherche actuellement un stage de fin d'études en Data Science pour contribuer activement à des projets stratégiques et à fort impact !**
-
 ---
 
 ### 🛠️ Compétences Techniques
@@ -49,7 +47,6 @@ En dernière année d'école d'ingénieurs à l'ENSA Al-Hoceima spécialisée en
 ### 📫 Comment me contacter :
 - 📧 **Email:** [saraelghazouani37@gmail.com](mailto:saraelghazouani37@gmail.com)
 - 💼 **LinkedIn:** [in/sara-el-ghazouani](https://www.linkedin.com/in/sara-el-ghazouani)
-- 🌐 **Portfolio:** Portfolio/sara-el-ghazouani *(Remplacez par votre lien)*
 
 <br />
 
